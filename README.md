@@ -1,7 +1,6 @@
 # CoExistence
 
 A simple networked multiplayer card game written in Java using sockets, threads, and Swing.  
-Originally developed as part of a university project (COSC 2P13), now maintained as a personal project.
 
 ---
 
